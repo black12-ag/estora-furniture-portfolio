@@ -1,5 +1,7 @@
 # 🪑 Estora — Modern Furniture Storefront & Admin Workspace
 
+![Estora Showcase Cover](./showcase-thumbnail.jpg)
+
 Welcome to **Estora**, a premium e-commerce experience designed for high-end home decor. This project is a modern storefront featuring responsive swipe-and-click sliders, cart modules, and a fully fluid administrative workspace to manage stock, reviews, roles, and audit trails.
 
 Designed and crafted by **black12-ag** as a showcase of modern frontend architecture, visual aesthetics, and database integrations.

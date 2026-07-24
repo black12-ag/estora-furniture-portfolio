@@ -18,6 +18,7 @@ dist-ssr
 .env
 
 # Wrangler / Cloudflare
+.github/
 .wrangler/
 .dev.vars
 

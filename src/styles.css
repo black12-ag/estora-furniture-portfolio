@@ -125,7 +125,6 @@
 
 @utility container-x {
   width: 100%;
-  max-width: 1600px;
   margin-inline: auto;
   /* Fluid gutter: 14px @ 320px → 24px from 640px up, no overflow on tiny phones. */
   padding-inline: clamp(0.875rem, 0.5rem + 1.5vw, 1.5rem);
